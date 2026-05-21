@@ -1,4 +1,4 @@
-# python studying
+# python 
 Start at 19th May 2026
 # Python Learning Journey
 
